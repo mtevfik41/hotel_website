@@ -38,4 +38,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Mustafa Kadan - [@mtevfik41](https://twitter.com/mtevfik41) - mtevfik41@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/mtevfik41/hotel_website](https://github.com/mtevfik41/hotel_website)
