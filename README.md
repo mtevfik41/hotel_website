@@ -17,11 +17,11 @@
 
 ## About The Project
 
+- [NETLIFY](https://hotel-website-app.netlify.app/)
+
 I created a simple hotel website to practice responsive design, HTML and CSS. You can review the screenshots folder to view the pages.
 
 ### Built With
-
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 - [HTML](https://en.wikipedia.org/wiki/HTML)
 - [CSS](https://en.wikipedia.org/wiki/CSS)
@@ -38,4 +38,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Mustafa Kadan - [@mtevfik41](https://twitter.com/mtevfik41) - mtevfik41@gmail.com
 
-Project Link: [https://github.com/mtevfik41/hotel_website](https://github.com/mtevfik41/hotel_website)
+Project Link: [https://hotel-website-app.netlify.app/](https://hotel-website-app.netlify.app/)
